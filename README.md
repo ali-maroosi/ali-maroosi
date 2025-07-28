@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ali Maroosi
 
-<!--
-**ali-maroosi/ali-maroosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Master's student in Biostatistics with a thesis focused on Machine Learning.  
+💻 I'm proficient in:
+- Python
+- Git & GitHub
+- Linux
+- R
+- SPSS
 
-Here are some ideas to get you started:
+🚀 I'm passionate about data science, real-world health data, and predictive modeling.  
+🔍 Currently learning more about machine learning workflows, deep learning techniques, and building dashboards with Streamlit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: ali.maroosi98@gmail.com
