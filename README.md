@@ -8,7 +8,7 @@ Hi, I'm Ali Maroosi!
 <br/>
 <p align="center">
 	<a href="https://github.com/ali-maroosi">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Biostatistics+Student;Health+Data+Analyst+in+Training;ML+for+Healthcare+Enthusiast;Always+Learning+New+Methods&center=true&width=430&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Biostatistics+Student;Machine+Learning+Developer;Always+Learning+New+Things&center=true&width=430&height=45">
 	</a>
 </p>
 
