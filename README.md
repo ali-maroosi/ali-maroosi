@@ -23,10 +23,10 @@ Hi, I'm Ali Maroosi!
 
 🧰 Tools & Technologies:
 
-- **Programming & Analysis:** Python, R, SPSS  
-- **Data Science Environments:** Jupyter Notebook
-- **Version Control & Workflow:** Git, GitHub  
-- **Operating Systems & Editors:** Linux (WSL), Visual Studio Code
+Programming & Analysis: Python, R, SPSS  
+Data Science Environments: Jupyter Notebook
+Version Control & Workflow: Git, GitHub  
+Operating Systems & Editors: Linux (WSL), Visual Studio Code
 
 📫 Let's Connect:
 <a href="mailto:ali.maroosi98@gmail.com">📧 ali.maroosi98@gmail.com</a>
